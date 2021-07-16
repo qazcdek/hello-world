@@ -1,2 +1,2 @@
 # hello-world
-Just follow tutorial
+In this section, we try to edit a new branch and then commit it.
